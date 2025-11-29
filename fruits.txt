@@ -1,5 +1,7 @@
 oragne
 apple
+pear
+donkey
 cow
 c
 d
